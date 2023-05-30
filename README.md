@@ -1,1 +1,85 @@
-# ttp-summer-2023
+# TTP Summer 2023 Syllabus
+
+## Welcome
+
+Hey there, awesome students! Buckle up and get ready to dive into the exciting world of web development with me, your host, Depak Borhara. Now, let's talk about my three personal rules that will make this journey even more enjoyable:
+
+###### Rule #1
+
+Respect the staff and your fellow students. We're a team, folks! Think of us as the Avengers of web development, minus the capes (unless you have a cool one, then bring it on).
+
+###### Rule #2
+
+Bring your A-game and come prepared. We're not here for mediocrity, my friends. I want to see that Michael Jordan energy from each and every one of you. Lace up those coding sneakers and let's make magic happen!
+
+###### Rule #3
+
+Have fun, folks! If you're not having a blast while learning, we're doing something wrong. Laughter is the secret ingredient to unlock your coding superpowers, so let's enjoy the ride together!
+
+Oh, and remember, if you stumble upon any issues or need some guidance, don't hesitate to reach out to me or any of the team. We're here to save the day and make your learning experience smooth like butter.
+
+Alright, let's get this web development party started! [Cue epic music](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+
+## Quick Links and Resources
+
+[Class Repo](https://github.com/DBorhara/ttp-summer-2023)
+Note: This is a private repo. I will need to add everyone.
+
+[Git Docs](https://git-scm.com/doc)
+
+[Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+
+[React Docs](https://react.dev/learn)
+[React Hooks & Components Docs](https://react.dev/reference/react)
+
+[Node.js Docs](https://nodejs.org/en/docs)
+[Express.js Docs](https://expressjs.com/en/4x/api.html)
+
+[PostgreSQL Docs](https://www.postgresql.org/docs/15/index.html)
+[Sequelize Docs](https://sequelize.org/docs/v6/)
+
+
+
+## Course Outline
+
+#### Phase 1 : Foundation
+
+June 12th: Pilot Assessment, Introductions, Orientation
+June 13th: Collaborative Workflow (Git) and Introduction to JavaScript
+June 14th: DOM Manipulation
+June 15th: Introduction to React
+June 16th: Introduction to External API Requests and ReactJS
+
+#### Phase 2: Back-end Development
+
+June 19th: HOLIDAY - Juneteenth
+June 20th: Introduction to Node.js and Express
+June 26th: PostgreSQL/Sequelize I
+June 27th: PostgreSQL/Sequelize II
+
+#### Phase 3: Full-stack Development
+
+June 28th: CRUD App I
+June 29th: CRUD App II
+June 30th: CRUD App III
+July 3rd: CRUD App IV
+
+#### Phase 4: Advanced Topics
+
+July 5th: Special Topics: Introduction to Registered Users and Open Authorization
+July 6th: Special Topics: Introduction to Security and Restrictions
+July 7th: Special Topics: Introduction to Deployment via Netlify and Heroku
+
+#### Phase 5: Capstone Project
+
+July 10th: Capstone 0: Topics Finalized With Staff and Initial Planning/Discussion
+July 11th - July 19th: Capstone I - Capstone VII (Progressive development of capstone projects)
+
+#### Phase 6: Career Preparation
+
+July 20th: Career Coach I: Key Value Pairs and Capstone VIII
+July 21st: Career Coach II: Analyzing Modern and Current Job Descriptions and Capstone IX
+July 24th: Career Coach III: Resumes, Cover Letters, and Capstone X
+July 25th: Career Coach IV: Action Items and Capstone XI
+July 26th: Capstone XII: Finalize Capstone Projects
+July 28th: Capstone XIV: Demo Day
