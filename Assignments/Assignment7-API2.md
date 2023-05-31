@@ -2,9 +2,9 @@
 
 For this group assignment, you will create a simple web application that does the following:
 
-1. Allow the user to enter any search term
-2. Fetch a list of results from the [GIPHY API](https://developers.giphy.com/docs/#technical-documentation)
-3. Allow the user to sort and filter based on as many parameters you'd like
+- [ ] Allow the user to enter any search term
+- [ ] Fetch a list of results from the [GIPHY API](https://developers.giphy.com/docs/#technical-documentation)
+- [ ] Allow the user to sort and filter based on as many parameters you'd like
 
 ## Requirements
 
@@ -14,11 +14,11 @@ For this group assignment, you will create a simple web application that does th
 
 - Consider using three components:
 
-  - App Component: has state with GIFS
+  - **App Component:** has state with GIFS
 
-  - SearchField Component: has state with search field input
+  - **SearchField Component:** has state with search field input
 
-  - GifCard Component: presentational component receiving GIF info as props
+  - **GifCard Component:** presentational component receiving GIF info as props
 
 In order to interact with the API, you will need to create a free developer account and create a new project to have an API key generated for you.
 

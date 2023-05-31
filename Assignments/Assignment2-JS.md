@@ -185,14 +185,14 @@ console.log(values); // ["Toyota", "Corolla", 2020]
 
 [From Chapter 4 of Eloquent JavaScript](https://eloquentjavascript.net/04_data.html)
 
-- Sum of a Range
-- Reversing an Array
-- A List
-- Deep Comparison
+- [ ] Sum of a Range
+- [ ] Reversing an Array
+- [ ] A List
+- [ ] Deep Comparison
 
 ## Miscellaneous Problems (1)
 
-Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.
+- [ ] Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.
 
 ```
 function moveZeros (nums) {

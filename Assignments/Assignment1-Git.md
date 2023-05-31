@@ -15,7 +15,7 @@ Once you have decided on a cause, begin by selecting one teammate to create a Gi
 
 ## Grading Criteria
 
-- HTML is formatted properly
+- [ ] HTML is formatted properly
 
   - **Good :**
 
@@ -41,7 +41,7 @@ Once you have decided on a cause, begin by selecting one teammate to create a Gi
   <html><head><title>My Website<title><head><body><h1>Welcome to my website!</h1><p>This is my website. I hope you enjoy it. Some of my interests are:<ul><li>Reading</li><li>Cooking<li><ul></p></body></html>
   ```
 
-- CSS is formatted properly
+- [ ] CSS is formatted properly
 
   - **Good:**
 
@@ -71,11 +71,11 @@ Once you have decided on a cause, begin by selecting one teammate to create a Gi
     body{background-color: #FFF;color:#000;}h1{font-size:24px;color:#F00;}p{font-size:14px;}#header{background-image:url(header.jpg);}
   ```
 
-- At least 2-3 pages
-- Users can clearly navigate throughout the website.
-- Thoughtful styling has been applied.
-- Create issues for each of the different pages and aspects of the site and assign each to a teammate. You'll be expected to create at least 3 issues
-- Make sure that the commit messages for commits involving each issue reference the issue. For instance, git commit -m "Menu completed, closes #14'
+- [ ] At least 2-3 pages
+- [ ] Users can clearly navigate throughout the website.
+- [ ] Thoughtful styling has been applied.
+- [ ] Create issues for each of the different pages and aspects of the site and assign each to a teammate. You'll be expected to create at least 3 issues
+- [ ] Make sure that the commit messages for commits involving each issue reference the issue. For instance, git commit -m "Menu completed, closes #14'
 
 **Complete:** Meets ALL grading criteria points above.
 **Incomplete:** Does not meet all grading criteria points above. Needs improvement or missing submission.
