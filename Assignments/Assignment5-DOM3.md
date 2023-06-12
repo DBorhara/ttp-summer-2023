@@ -1,6 +1,6 @@
 # DOM Challenges III
 
-- **Due** January 8th, 2021 by 10:00:00AM
+- **Due** June 15th, 2023 by 10:00:00AM
 - **Points** 20
 - **Submitting** Fill out all of the appropriate information in the Bootcamp Tracker Google Sheet (see pinned items in the Cohort Slack Channel)
 

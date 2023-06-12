@@ -1,6 +1,6 @@
 # Collaboration Workshop
 
-- **Due** May, 29th, 2020 (Friday) by 10:00:00 AM
+- **Due** June 13, 2023 by 10:00:00 AM
 - **Points:** 10
 - **Submitting** Append your team members’ names and GitHub Link (the deployed link) to the repository everyone collaborated on in the appropriate tab on the Cohort’s Excel Spreadsheet
 

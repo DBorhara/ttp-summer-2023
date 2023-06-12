@@ -1,6 +1,6 @@
 # DOM Challenges III with ReactJS
 
-- Due June 8th, 2020 by 10:00:00 AM
+- Due June 20th, 2023 by 10:00:00 AM
 - Points 20
 - Submitting The established protocol for submitting group work (locating the Pinned Google Sheet on the Cohort Slack General Channel, navigating to the appropriate tab, putting down your Group Members’ names, and linking the repository on GitHub that you all collaborated on)
 

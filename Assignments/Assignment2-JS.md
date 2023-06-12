@@ -1,6 +1,6 @@
 # JS Assignment
 
-- **Due** January 7th, 2021 by 10:00:00 AM
+- **Due** June 14th, 2023 by 10:00:00 AM
 - **Points** 20
 - **Submitting** Submit via GitHub Gist
 
