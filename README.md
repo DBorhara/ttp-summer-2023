@@ -26,7 +26,7 @@ Oh, and remember, if you stumble upon any issues or need some guidance, don't he
 
 Alright, let's get this web development party started! [Cue epic music](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
-## Quick Links and Resources
+## Quick and Resources
 
 - [Class Repo](https://github.com/DBorhara/ttp-summer-2023)
   Note: This is a private repo. I will need to add everyone.
