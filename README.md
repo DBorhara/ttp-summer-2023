@@ -48,7 +48,7 @@ Alright, let's get this web development party started! [Cue epic music](https://
 
 #### Phase 1 : Foundation
 
-- [ ] June 12th: Pilot Assessment, Introductions, Orientation
+- [x] June 12th: Pilot Assessment, Introductions, Orientation
 - [ ] June 13th: Collaborative Workflow (Git) and Introduction to JavaScript
 - [ ] June 14th: DOM Manipulation
 - [ ] June 15th: Introduction to React
