@@ -1,1 +1,1 @@
-"AM I A STRING?"
+"I AM STRING?"
