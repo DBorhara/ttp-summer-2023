@@ -29,7 +29,8 @@ Alright, let's get this web development party started! [Cue epic music](https://
 ## Quick Links and Resources
 
 - [Class Repo](https://github.com/DBorhara/ttp-summer-2023)
-  Note: This is a private repo. I will need to add everyone.
+
+- [Class Assignment Tracker](https://docs.google.com/spreadsheets/d/1Lb26i0jy8xYHJrRzF0MProzwK0gyT9OedHJvJVylnL4/edit?pli=1#gid=1616898190)
 
 - [Git Docs](https://git-scm.com/doc)
 
@@ -49,7 +50,11 @@ Alright, let's get this web development party started! [Cue epic music](https://
 #### Phase 1 : Foundation
 
 - [x] June 12th: Pilot Assessment, Introductions, Orientation
-- [ ] June 13th: Collaborative Workflow (Git) and Introduction to JavaScript
+  - Recording: https://us06web.zoom.us/rec/share/UpDoarolKxCNnCTEtqGqfO5kNvvHIoYLlkA0w3g9aXB1amfeSxYEJt6Yt06Wj6mx.joG1sQ8-kzEriU6j
+  - Passcode: fBn$4*A= 
+- [x] June 13th: Collaborative Workflow (Git) and Introduction to JavaScript
+  - Recording: https://us06web.zoom.us/rec/share/NGlcLYziFTFTg0ZXG1O9cOAbbHBUUc4qEIw3mFOtuClF22FGK1s3-UhfBXM79N1V.1SEq4f3B7K5-YRm5
+  - Passcode: j8vg@#$Q
 - [ ] June 14th: DOM Manipulation
 - [ ] June 15th: Introduction to React
 - [ ] June 16th: Introduction to External API Requests and ReactJS

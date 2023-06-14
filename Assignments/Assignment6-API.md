@@ -1,30 +1,32 @@
+# API I
+
+- **Due** June 16th, 2023 by 10:00:00AM
+- **Points** 10
+- **Submitting** Fill out all of the appropriate information in the Bootcamp Tracker Google Sheet (available in the README)
+
 ## The Zip and City search API (ctp-zip-api)
 
-http://ctp-zip-api.herokuapp.com/
-// Make another one before lesson
+https://zip-api.eu/en/
 
-For this project we will be developing two simple applications, (1) the first app allows us to search for City names and details for a given zip code, and (2) the second app allows us to find all of Zip codes associated with a given City name.
+For this project we will be developing two simple applications, (1) the first app allows us to search for City names and details for a given zip code, and (2) the second app allows us to find the distance between 2 given zip codes.
 
 Below is a description of the relevant API endpoints for the projects:
 
-### `/zip/:zipcode` - find Cities associated with a zipcode
+### `/radius/[country_code]-[postal_code]/[distance]/[unit]` - find Cities associated with a zipcode within a given distance
 
-`http://ctp-zip-api.herokuapp.com/zip/:zipcode`
+`https://zip-api.eu/api/v1/radius/US-11373/5/km`
 
-provide the zipcode in the url and you will receive a JSON response with an array containing an object for each city found. 
+You will receive a JSON response with an array containing an object for each city found. 
 
 
 http://ctp-zip-api.herokuapp.com/zip/10016
 
-### `/city/:cityname` - find Zip Codes associated with a city name
+### `/info/[country_code]-[postal_code]` - find Zip Codes associated with a city name
 
-`http://ctp-zip-api.herokuapp.com/city/:cityname`
+`https://zip-api.eu/api/v1/info/US-11373`
 
-`:cityname` must be in all caps
 
-provide the city name in the url and you will receive a JSON response with an array containing a list of all zip codes for that city:
-
-http://ctp-zip-api.herokuapp.com/city/SPRINGFIELD
+Provide a zip code and receieve a 
 
 
 ## Project 1: Zip Code Search app

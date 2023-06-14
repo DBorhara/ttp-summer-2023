@@ -1,4 +1,8 @@
-# Coding Exercise
+# API II
+
+- **Due** June 16th, 2023 by 10:00:00AM
+- **Points** 10
+- **Submitting** Fill out all of the appropriate information in the Bootcamp Tracker Google Sheet (available in the README)
 
 For this group assignment, you will create a simple web application that does the following:
 
