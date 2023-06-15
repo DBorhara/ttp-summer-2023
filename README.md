@@ -32,6 +32,8 @@ Alright, let's get this web development party started! [Cue epic music](https://
 
 - [Class Assignment Tracker](https://docs.google.com/spreadsheets/d/1Lb26i0jy8xYHJrRzF0MProzwK0gyT9OedHJvJVylnL4/edit?pli=1#gid=1616898190)
 
+- [Pair Programming Guide by Martin Fowler](https://martinfowler.com/articles/on-pair-programming.html)
+
 - [Git Docs](https://git-scm.com/doc)
 
 - [Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -55,7 +57,9 @@ Alright, let's get this web development party started! [Cue epic music](https://
 - [x] June 13th: Collaborative Workflow (Git) and Introduction to JavaScript
   - Recording: https://us06web.zoom.us/rec/share/NGlcLYziFTFTg0ZXG1O9cOAbbHBUUc4qEIw3mFOtuClF22FGK1s3-UhfBXM79N1V.1SEq4f3B7K5-YRm5
   - Passcode: j8vg@#$Q
-- [ ] June 14th: DOM Manipulation
+- [x] June 14th: DOM Manipulation
+  - Recording https://us06web.zoom.us/rec/share/FhxrtQF2bNUQYLGe77A6wW-g5KivKgdGYb80TjaEgRgIoPPdSCl6HMMdrxZOxO6j.b1PERfNeoamt4U8q
+  - Passcode: 9#AudEdZ
 - [ ] June 15th: Introduction to React
 - [ ] June 16th: Introduction to External API Requests and ReactJS
 
