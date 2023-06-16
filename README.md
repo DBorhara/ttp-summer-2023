@@ -53,7 +53,7 @@ Alright, let's get this web development party started! [Cue epic music](https://
 
 - [x] June 12th: Pilot Assessment, Introductions, Orientation
   - Recording: https://us06web.zoom.us/rec/share/UpDoarolKxCNnCTEtqGqfO5kNvvHIoYLlkA0w3g9aXB1amfeSxYEJt6Yt06Wj6mx.joG1sQ8-kzEriU6j
-  - Passcode: fBn$4*A= 
+  - Passcode: fBn$4\*A=
 - [x] June 13th: Collaborative Workflow (Git) and Introduction to JavaScript
   - Recording: https://us06web.zoom.us/rec/share/NGlcLYziFTFTg0ZXG1O9cOAbbHBUUc4qEIw3mFOtuClF22FGK1s3-UhfBXM79N1V.1SEq4f3B7K5-YRm5
   - Passcode: j8vg@#$Q
@@ -67,19 +67,22 @@ Alright, let's get this web development party started! [Cue epic music](https://
 - [x] June 16th: Introduction to External API Requests and ReactJS
   - Link to Pokemon List App: https://github.com/DBorhara/pokemonappttp2023
 
-#### Phase 2: Back-end Development
+#### Phase 2: React, State Managment and Back-end Development
 
 - [ ] June 19th: HOLIDAY - Juneteenth
-- [ ] June 20th: Introduction to Node.js and Express
+- [ ] June 20th: React Router/
+- [ ] June 21st: React Context/Redux
+- [ ] June 22nd: Introduction to Node.js
+- [ ] June 23th: Introduction to Express.js
+
+#### Phase 3: CRUD App and Databases
+
 - [ ] June 26th: PostgreSQL/Sequelize I
 - [ ] June 27th: PostgreSQL/Sequelize II
-
-#### Phase 3: Full-stack Development
-
-- [ ] June 28th: CRUD App I
+- [ ] June 28th: Review Session + CRUD App I
 - [ ] June 29th: CRUD App II
-- [ ] June 30th: CRUD App III
-- [ ] July 3rd: CRUD App IV
+- [ ] June 30th: CRUD App II
+- [ ] July 3rd: CRUD APP IV
 
 #### Phase 4: Advanced Topics
 
