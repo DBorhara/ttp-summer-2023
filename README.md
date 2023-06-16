@@ -60,8 +60,12 @@ Alright, let's get this web development party started! [Cue epic music](https://
 - [x] June 14th: DOM Manipulation
   - Recording https://us06web.zoom.us/rec/share/FhxrtQF2bNUQYLGe77A6wW-g5KivKgdGYb80TjaEgRgIoPPdSCl6HMMdrxZOxO6j.b1PERfNeoamt4U8q
   - Passcode: 9#AudEdZ
-- [ ] June 15th: Introduction to React
-- [ ] June 16th: Introduction to External API Requests and ReactJS
+- [x] June 15th: Introduction to React
+  - Recording: https://us06web.zoom.us/rec/share/yjyYaokbhPnQL1fIWIX38N_WtVhfttMgJm2BNyTkjEzgeG7jNdCZoQmixfh1YJQ0.kE8dj-BrmKrahRRM
+  - Passcode: ajAVW#T5
+  - Office Hours Recording(Simple App Setup): https://drive.google.com/file/d/1qqiGMlY7l7AOk3Nuaqxh9g0gt-NtTqBa/view?usp=sharing
+- [x] June 16th: Introduction to External API Requests and ReactJS
+  - Link to Pokemon List App: https://github.com/DBorhara/pokemonappttp2023
 
 #### Phase 2: Back-end Development
 
