@@ -164,8 +164,8 @@ export default ProfileDetails;
 
 Let's add some more features to our banking app, using the following `User Stories`!
 
-- The Debits index endpoint is located at `https://bank-of-react-bxbys1cq8-ajlapid718.vercel.app/debits`
-- The Credits index endpoint is located at `https://bank-of-react-bxbys1cq8-ajlapid718.vercel.app/credits`
+- The Debits index endpoint is located at `https://bank-of-react-b745wfs0u-ajlapid718.vercel.app/debits`
+- The Credits index endpoint is located at `https://bank-of-react-b745wfs0u-ajlapid718.vercel.app/credits`
 
 #### Updating the Account Balance
 
