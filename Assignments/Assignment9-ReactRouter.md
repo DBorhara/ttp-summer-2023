@@ -67,7 +67,7 @@ function App() {
         {/* Routes */}
         <Routes>
           <Route path="/" element={<Home />} />
-          <Route path="/userProfile" element={<UserProfile />} />
+          <Route path="/userProfile/*" element={<UserProfile />} />
         </Routes>
       </div>
     </Router>
@@ -129,12 +129,15 @@ React Router v6 introduced a new `Navigate` component for programmatic navigatio
 
 ```jsx
 import React from "react";
-import { Link, Navigate } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 
 function ProfileDetails() {
+  const navigate = useNavigate();
+
   const navigateToSettings = () => {
+    console.log("NAVIGATED");
     // Navigate to the settings page
-    return <Navigate to="/userProfile/settings" />;
+    return navigate("/userProfile/settings");
   };
 
   return (
@@ -160,9 +163,9 @@ export default ProfileDetails;
 ### LAB: Adding Debits and Credits
 
 Let's add some more features to our banking app, using the following `User Stories`!
-!! NEED NEW ENDPOINTS
-- The Debits index endpoint is located at `https://moj-api.herokuapp.com/debits`
-- The Credits index endpoint is located at `https://moj-api.herokuapp.com/credits`
+
+- The Debits index endpoint is located at `https://bank-of-react-bxbys1cq8-ajlapid718.vercel.app/debits`
+- The Credits index endpoint is located at `https://bank-of-react-bxbys1cq8-ajlapid718.vercel.app/credits`
 
 #### Updating the Account Balance
 
