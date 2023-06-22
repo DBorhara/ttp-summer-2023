@@ -66,12 +66,18 @@ Alright, let's get this web development party started! [Cue epic music](https://
   - Office Hours Recording(Simple App Setup): https://drive.google.com/file/d/1qqiGMlY7l7AOk3Nuaqxh9g0gt-NtTqBa/view?usp=sharing
 - [x] June 16th: Introduction to External API Requests and ReactJS
   - Link to Pokemon List App: https://github.com/DBorhara/pokemonappttp2023
+  - Recording: https://us06web.zoom.us/rec/share/xL9gxfgCiDzaItGOYshPahqEnOALR-S-pYA4pxNuWBZ9LUTqad3eoKR0-M2SkMpS.zzyJNTI2y5xLymcF
+  - Passcode: ms+5qKYD
 
 #### Phase 2: React, State Managment and Back-end Development
 
 - [ ] June 19th: HOLIDAY - Juneteenth
-- [ ] June 20th: React Router/
+- [ ] June 20th: React Router
+  - Recording: https://us06web.zoom.us/rec/share/hTY4ZPXVN8G2FaW7NnAtp8ElZSZvZhqMGyIwbs_KmZAVuA0tysNLDi63_4aASUvs.ktK6muT4xnXjU3sB
+  - Passcode: #MJ@#L@2
 - [ ] June 21st: React Context/Redux
+  - Recording: https://us06web.zoom.us/rec/share/0o68H3XW60bVQLgqT9RLuE6PprDTk2EpQMxGmFpBVDtYf6ssr08MCu1tn_mF2xM.2_dD_UBPOtgV7wfO
+  - Passcode: FM3R3?GD
 - [ ] June 22nd: Introduction to Node.js
 - [ ] June 23th: Introduction to Express.js
 
