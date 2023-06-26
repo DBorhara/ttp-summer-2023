@@ -23,7 +23,7 @@ pool.query("SELECT * FROM players", (error, result) => {
 //   `INSERT INTO players
 //   ("firstName", "lastName", "jerseyNumber", "createdAt", "updatedAt")
 //   VALUES
-//   ('Sherlock', 'Holmes', '4', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP)`,
+//   ('Jessica', 'G', '8', CURRENT_TIMESTAMP, CURRENT_TIMESTAMP)`,
 //   (err, result) => {
 //     if (err) {
 //       console.error("Error executing query", err);
