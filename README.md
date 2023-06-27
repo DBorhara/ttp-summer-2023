@@ -71,20 +71,29 @@ Alright, let's get this web development party started! [Cue epic music](https://
 
 #### Phase 2: React, State Managment and Back-end Development
 
-- [ ] June 19th: HOLIDAY - Juneteenth
-- [ ] June 20th: React Router
+- [x] June 19th: HOLIDAY - Juneteenth
+- [x] June 20th: React Router
   - Recording: https://us06web.zoom.us/rec/share/hTY4ZPXVN8G2FaW7NnAtp8ElZSZvZhqMGyIwbs_KmZAVuA0tysNLDi63_4aASUvs.ktK6muT4xnXjU3sB
   - Passcode: #MJ@#L@2
-- [ ] June 21st: React Context/Redux
+- [x] June 21st: React Context/Redux
   - Recording: https://us06web.zoom.us/rec/share/0o68H3XW60bVQLgqT9RLuE6PprDTk2EpQMxGmFpBVDtYf6ssr08MCu1tn_mF2xM.2_dD_UBPOtgV7wfO
   - Passcode: FM3R3?GD
-- [ ] June 22nd: Introduction to Node.js
-- [ ] June 23th: Introduction to Express.js
+- [x] June 22nd: Introduction to Node.js
+  - Recording: https://us06web.zoom.us/rec/share/yQsu7ExvV04l5sH8w23cI5WvoNfBe8ipJGr6E_iwBg1dKXV0rR8STWBZWbknxsDC.2kGwTJY5mYwxZipM
+  - Passcode: R.x?=r7*
+- [x] June 23th: Introduction to Express.js
+  - Recording: https://us06web.zoom.us/rec/share/2f8Qzbmn9jfkpWHs62FDbzZSNKUOj4gADz85NEtm3qpfv0S7xwToSmETkxdjGYSk.9n8O0suC3S8KNOnx
+  - Passcode: rP7#12Bt
 
 #### Phase 3: CRUD App and Databases
 
-- [ ] June 26th: PostgreSQL/Sequelize I
-- [ ] June 27th: PostgreSQL/Sequelize II
+- [x] June 26th: PostgreSQL/Sequelize I
+  - Recording: https://us06web.zoom.us/rec/share/jMl9g5Hvu-OrU1uUIQ76Hmv20B1n803Y1P3diboU77Cl7ZZZnCYN21fVxCD2Tn69.ucDEkfxvqNNNOJk5
+  - Passcode: QrBtV+i9
+- [x] June 27th: PostgreSQL/Sequelize II
+  - Recording: https://us06web.zoom.us/rec/share/J-w9vS_ATh7bmX8ehPQRXN_WxDEBidJt45OcyIz17-3zZmDn9t09K_fLiEt5wznp.o8FovJ149emq6DiV
+  - Passcode: l4#CDk7?
+  - BackEnd Repo Link: https://github.com/DBorhara/ttpbackend2023
 - [ ] June 28th: Review Session + CRUD App I
 - [ ] June 29th: CRUD App II
 - [ ] June 30th: CRUD App II
