@@ -94,20 +94,26 @@ Alright, let's get this web development party started! [Cue epic music](https://
   - Recording: https://us06web.zoom.us/rec/share/J-w9vS_ATh7bmX8ehPQRXN_WxDEBidJt45OcyIz17-3zZmDn9t09K_fLiEt5wznp.o8FovJ149emq6DiV
   - Passcode: l4#CDk7?
   - BackEnd Repo Link: https://github.com/DBorhara/ttpbackend2023
-- [ ] June 28th: Review Session + CRUD App I
-- [ ] June 29th: CRUD App II
-- [ ] June 30th: CRUD App II
-- [ ] July 3rd: CRUD APP IV
+- [x] June 28th: Review Session + CRUD App I
+- [x] June 29th: CRUD App II
+- [x] June 30th: CRUD App II
+- [x] July 3rd: CRUD APP IV
 
 #### Phase 4: Advanced Topics
 
-- [ ] July 5th: Special Topics: Introduction to Registered Users and Open Authorization
-- [ ] July 6th: Special Topics: Introduction to Security and Restrictions
-- [ ] July 7th: Special Topics: Introduction to Deployment via Netlify and Heroku
+- [x] July 5th: Special Topics: Introduction to Registered Users and Open Authorization
+  - Recording: https://us06web.zoom.us/rec/share/SytFZK8rKvDFexFn23PDHB4ahPtl496USAvUanzFa3IOXC6FmXTyR36R0-wlXM0v.HiOiWatlR9sHaCRF
+  - Passcode: !0?.uM^r
+- [x] July 6th: Special Topics: Introduction to Security and Restrictions
+  - Recording: https://us06web.zoom.us/rec/share/0FdrTstGfixbvOFFyfFyGvFeAjckODNVh9X-Zh4rB8lxiYeiqtdyQOq9xB9tykAA.X1ItBHLUrBsdILU6
+  - Passcode: Z6b*Z!#y
+- [x] July 7th: Special Topics: Introduction to Deployment via Netlify and Heroku
+  - Recording: https://us06web.zoom.us/rec/share/a1ha4adtdycegeZmHaLTsl3t9nKpHRKCABCFHy0oMuB2bZJ-hnpr37XUOekhfT5h.i240erIMTjIJrxK-
+  - Passcode: 2E30S!R=
 
 #### Phase 5: Capstone Project
 
-- [ ] July 10th: Capstone 0: Topics Finalized With Staff and Initial Planning/Discussion
+- [x] July 10th: Capstone 0: Topics Finalized With Staff and Initial Planning/Discussion
 - [ ] July 11th - July 19th: Capstone I - Capstone VII (Progressive development of capstone projects)
 
 #### Phase 6: Career Preparation
